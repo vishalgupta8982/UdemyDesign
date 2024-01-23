@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UdemyDesign/static/css/main.09a6529e.css",
+    "main.js": "/UdemyDesign/static/js/main.c51c97a9.js",
+    "static/js/787.2080ec48.chunk.js": "/UdemyDesign/static/js/787.2080ec48.chunk.js",
+    "index.html": "/UdemyDesign/index.html",
+    "main.09a6529e.css.map": "/UdemyDesign/static/css/main.09a6529e.css.map",
+    "main.c51c97a9.js.map": "/UdemyDesign/static/js/main.c51c97a9.js.map",
+    "787.2080ec48.chunk.js.map": "/UdemyDesign/static/js/787.2080ec48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a6529e.css",
+    "static/js/main.c51c97a9.js"
+  ]
+}
